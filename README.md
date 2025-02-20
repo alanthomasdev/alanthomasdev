@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 
 🚀 Full Stack Developer. 
-Passionate about crafting seamless web and mobile experiences, I thrive at the intersection of frontend and backend development. With expertise in Angular, React, Node.js, Express, SQL, MongoDB, Strapi, and Next.js, I build scalable, performant, and user-friendly applications.
+Passionate about crafting seamless web and mobile experiences, I thrive at the intersection of frontend and backend development. I build scalable, performant, and user-friendly applications.
 
 Let’s connect and build something amazing together!
 
 💻 Tech Stack:
-Frontend: Angular, React, Next.js
-Backend: Node.js, Express, Strapi
-Mobile: React Native
-Databases: SQL, MongoDB
+- Frontend: Angular, React, Next.js
+- Backend: Node.js, Express, Strapi
+- Mobile: React Native
+- Databases: SQL, MongoDB
 
 📫 Let’s collaborate!
 Open to new opportunities, collaborations, and tech discussions. Reach out at alanthomasofficial505@gmail.com
