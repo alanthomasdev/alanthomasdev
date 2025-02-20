@@ -24,7 +24,7 @@ Let’s connect and build something amazing together!
 💻 Tech Stack:
 - Frontend: Angular, React, Next.js
 - Backend: Node.js, Express, Strapi
-- Mobile: React Native
+- Mobile: React Native, Ionic
 - Databases: SQL, MongoDB
 
 📫 Let’s collaborate!
