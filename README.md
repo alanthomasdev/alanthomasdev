@@ -1,4 +1,4 @@
-## Hi
+## Hi, Alan Here
 
 <!--
 **alanthomasdev/alanthomasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-🚀 Full Stack Developer. 
+🚀I am a Full Stack Developer. 
 Passionate about crafting seamless web and mobile experiences, I thrive at the intersection of frontend and backend development. I build scalable, performant, and user-friendly applications.
 
 Let’s connect and build something amazing together!
