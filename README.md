@@ -20,15 +20,18 @@ Passionate about building scalable, performant, and user-friendly applications, 
 
 🚀 Tech Stack
 
-Frontend: Angular, React, Next.js
+Frontend: Angular, React, Next.js, React.js, ES6, CSS3, SASS, Typescript, Redux, CSS-in-JS
 
-Backend: Node.js, Express, Strapi
+Backend: Node.js (Express), REST API, Strapi, Nest Js, 
 
 Mobile: React Native, Ionic
 
-Databases: SQL, MongoDB
+Others: Git, AWS, S3, Docker
+
+Databases: MySQL, MongoDB
 
 💡 Let’s Build Something Amazing!
 Open to collaborations, new opportunities, and tech discussions. Reach out at alanthomasofficial505@gmail.com
+
 
 
