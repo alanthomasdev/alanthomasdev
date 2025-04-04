@@ -16,18 +16,19 @@ Here are some ideas to get you started:
 -->
 
 
-🚀I am a Full Stack Developer. 
-Passionate about crafting seamless web and mobile experiences, I thrive at the intersection of frontend and backend development. I build scalable, performant, and user-friendly applications.
+Passionate about building scalable, performant, and user-friendly applications, I thrive at the intersection of frontend and backend development. From elegant UIs to robust APIs, I love turning ideas into reality.
 
-Let’s connect and build something amazing together!
+🚀 Tech Stack
 
-💻 Tech Stack:
-- Frontend: Angular, React, Next.js
-- Backend: Node.js, Express, Strapi
-- Mobile: React Native, Ionic
-- Databases: SQL, MongoDB
+Frontend: Angular, React, Next.js
 
-📫 Let’s collaborate!
-Open to new opportunities, collaborations, and tech discussions. Reach out at alanthomasofficial505@gmail.com
+Backend: Node.js, Express, Strapi
+
+Mobile: React Native, Ionic
+
+Databases: SQL, MongoDB
+
+💡 Let’s Build Something Amazing!
+Open to collaborations, new opportunities, and tech discussions. Reach out at alanthomasofficial505@gmail.com
 
 
