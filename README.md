@@ -26,7 +26,7 @@ Backend: Node.js (Express), REST API, Strapi, Nest Js,
 
 Mobile: React Native, Ionic
 
-Others: Git, AWS, S3, Docker
+Others: Git, AWS, S3, EC2, Docker
 
 Databases: MySQL, MongoDB
 
